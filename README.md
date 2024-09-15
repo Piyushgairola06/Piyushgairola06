@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
 - 📫 to reach me dm on insta-piyushgairola06
--    gmail-piyushgairola32@gmail.com
+     or you can mail me 
+-here-piyushgairola32@gmail.com
 
 <!---
 Piyushgairola06/Piyushgairola06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
